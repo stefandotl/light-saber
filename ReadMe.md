@@ -1,3 +1,5 @@
+Basic object-tracking based on color-space detection
+
 -Take a textmarker/marker-pen or any other object with an ideally striking color. 
 -Set the thershold-values for all colors in the trackbars until only the object is visible in the Frame-Window, 
 you can also see the results in the Thresh-Window.
